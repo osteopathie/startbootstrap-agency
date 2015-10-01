@@ -35,7 +35,7 @@ a.active {
 }
 
 a {
-    color: #fed136;
+    color: #c;
 }
 
 a:hover,
@@ -652,8 +652,7 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #222;
-    background-image: url(../img/map-image.png);
+    background-color: #fed136;
     background-position: center;
     background-repeat: no-repeat;
 }
